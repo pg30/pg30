@@ -3,7 +3,7 @@
 <a href="https://www.codechef.com/users/pranay_garg"><img src="https://img.shields.io/badge/CodeChef-2008-yellow?logo=CodeChef"></a> 
 <a href="https://github.com/pg30"><img src="https://img.shields.io/github/followers/pg30?style=social"></a>
 
-- Myself    🅿🆁🅰🅽🅰🆈 🅶🅰🆁🅶
+- Myself    🄿🅁🄰🄽🄰🅈 🄶🄰🅁🄶
 - CSE undergrad with complete 3 years experience 😄
 - 4th running as usual 😉
 - 📫 ping me:<a href="https://www.linkedin.com/in/pranaygarg30/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"></a> <a href="https://www.instagram.com/_pranaygarg/?hl=en"><img src="https://img.shields.io/badge/Instagram-ff69b4?logo=Instagram"></a>
