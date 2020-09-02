@@ -1,4 +1,4 @@
-### {oh,hi there 👋}
+### Hi there 👋
 <a href="https://codeforces.com/profile/pranay_garg"><img src="https://run.kaist.ac.kr/badges/codeforces/pranay_garg.svg"></a> 
 <a href="https://www.codechef.com/users/pranay_garg"><img src="https://img.shields.io/badge/CodeChef-2008-yellow?logo=CodeChef"></a> 
 <a href="https://github.com/pg30"><img src="https://img.shields.io/github/followers/pg30?style=social"></a>
