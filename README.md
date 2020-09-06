@@ -40,7 +40,7 @@
 <br />
 
 ---
-  <img align="left" alt="Pranay's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pg30&show_icons=true&hide_border=true" />
+  <img align="left" alt="Pranay's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pg30&count_private=true&include_all_commits=true&hide=issues,contribs&show_icons=true&hide_border=true" />
 
 [website]: https://play.google.com/store/apps/details?id=com.pg.premiumcalculator&ah=Ih7iqj0P6Bn6HOiLIo5XgD8ukN0
 [instagram]: https://www.instagram.com/_pranaygarg/?hl=en
