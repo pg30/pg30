@@ -6,14 +6,10 @@
 ## I'm a Student and a Developer!
 - 🔭 I’m currently working on [my project][website]!
 - 🌱 I’m currently learning Flutter
+- 📫 How to reach me: [Pranay Garg](https://www.linkedin.com/in/pranaygarg30/)
 - 👯 I’m looking to collaborate with other Software Developers
 - ⚡ Fun fact: There is a thing called Constant Variable..🤣
         
-
-
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://external-content.duckduckgo.com/ip3/www.linkedin.com.ico" />][linkedin]
-
 <br>
 <p align="center">
 
