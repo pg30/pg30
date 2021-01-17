@@ -13,9 +13,27 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://external-content.duckduckgo.com/ip3/www.linkedin.com.ico" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://external-content.duckduckgo.com/ip3/www.instagram.com.ico" />][instagram]
 
-<br />
+<br>
+<p align="center">
+
+<img src="https://metrics.lecoq.io/pg30" alt="Github Metrics">
+  
+<br>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pg30" alt="Github Streak Stats">
+  
+</p>
+<br>
+
+## Github Stats📈
+<a href="https://github.com/pg30">
+    <img src="https://github-readme-stats.vercel.app/api?username=pg30&count_private=true&show_icons=true&hide_border=true" width="51%" />
+</a>
+<a href="https://github.com/pg30">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pg30&layout=compact&hide_border=true" width="43%" />
+</a>
+
 
 ### Languages and Tools:
 
@@ -40,7 +58,6 @@
 <br />
 
 ---
-  <img align="left" alt="Pranay's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pg30&count_private=true&include_all_commits=true&hide=issues,contribs&show_icons=true&hide_border=true" />
 
 [website]: https://play.google.com/store/apps/details?id=com.pg.premiumcalculator&ah=Ih7iqj0P6Bn6HOiLIo5XgD8ukN0
 [instagram]: https://www.instagram.com/_pranaygarg/?hl=en
