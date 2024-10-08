@@ -3,9 +3,9 @@
 <a href="https://www.codechef.com/users/pranay_garg"><img src="https://img.shields.io/badge/CodeChef-2081-yellow?logo=CodeChef"></a> 
 <a href="https://github.com/pg30"><img src="https://img.shields.io/github/followers/pg30?style=social"></a>
 
-## I'm a Student and a Developer!
+## I'm a Software Developer!
 - 🔭 I’m currently working on [my project][website]!
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Go
 - 📫 How to reach me: [Pranay Garg](https://www.linkedin.com/in/pranaygarg30/)
 - 👯 I’m looking to collaborate with other Software Developers
 - ⚡ Fun fact: There is a thing called Constant Variable..🤣
