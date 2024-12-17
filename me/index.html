@@ -1,1 +1,67 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coming Soon | My Personal Profile</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .typing-effect {
+            width: 22ch;
+            animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: 3px solid;
+            font-family: monospace;
+            font-size: 2em;
+        }
+        @keyframes typing {
+            from { width: 0; }
+        }
+        @keyframes blink {
+            50% { border-color: transparent; }
+        }
+        .float-animation {
+            animation: float 3s ease-in-out infinite;
+        }
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-20px); }
+            100% { transform: translateY(0px); }
+        }
+    </style>
+</head>
+<body class="text-white">
+    <div class="text-center p-8 bg-white bg-opacity-10 rounded-xl shadow-2xl backdrop-blur-lg max-w-md w-full mx-4">
+        <div class="float-animation mb-8">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mx-auto h-32 w-32 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
+            </svg>
+        </div>
+        <h1 class="text-4xl font-bold mb-4">Website Under Construction</h1>
+        <p class="typing-effect text-xl mb-6 text-gray-200">Crafting something awesome...</p>
+        
+        <div class="space-y-4">
+            <a href="https://www.linkedin.com/in/pranaygarg30" target="_blank" class="w-full bg-white text-purple-600 font-bold px-6 py-3 rounded-full hover:bg-opacity-90 transition duration-300 inline-block text-center mb-3">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block mr-2" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+                </svg>
+                Connect on LinkedIn
+            </a>
+            <a href="mailto:pranaygarg001@gmail.com" class="w-full bg-red-600 text-white font-bold px-6 py-3 rounded-full hover:bg-red-700 transition duration-300 inline-block text-center">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                </svg>
+                Email Me
+            </a>
+        </div>
+    </div>
+</body>
+</html>
